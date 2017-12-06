@@ -1,0 +1,8 @@
+version: 2
+jobs:
+  build:
+    steps:
+      - checkout
+      - run:
+          name: Generate Themes
+          command: /bin/bash .build/build.sh
