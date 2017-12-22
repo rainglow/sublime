@@ -297,11 +297,11 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#00a8c6</string>
+                <string>#ba5050</string>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#f8f8f0</string>
+                <string>#6b1010</string>
             </dict>
         </dict>
         <dict>
@@ -312,9 +312,9 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#00a8c6</string>
+                <string>#ba5050</string>
                 <key>foreground</key>
-                <string>#f8f8f0</string>
+                <string>#6b1010</string>
             </dict>
         </dict>
         <dict>
@@ -632,7 +632,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#00a8c6</string>
+                <string>#ba5050</string>
             </dict>
         </dict>
 
