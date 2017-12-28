@@ -21,15 +21,15 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#16181a</string>
+                <string>#373c42</string>
                 <key>caret</key>
                 <string>#f8f8f0</string>
                 <key>foreground</key>
                 <string>#c7d0d9</string>
                 <key>invisibles</key>
-                <string>#3b3a32</string>
+                <string>#646c77</string>
                 <key>lineHighlight</key>
-                <string>#403c37</string>
+                <string>#3b4047</string>
                 <key>selection</key>
                 <string>#b3cc57</string>
                 <key>selectionForeground</key>
@@ -41,7 +41,7 @@ Find more themes at : https://github.com/rainglow
                 <key>selectionBorder</key>
                 <string>#222218</string>
                 <key>activeGuide</key>
-                <string>#9d550f</string>
+                <string>#646c77</string>
 
                 <key>bracketsForeground</key>
                 <string>#ef746f</string>
@@ -65,7 +65,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#424c55</string>
+                <string>#657482</string>
             </dict>
         </dict>
         <dict>
@@ -398,7 +398,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#5f6f7f</string>
+                <string>#8095aa</string>
             </dict>
         </dict>
         <dict>

@@ -21,15 +21,15 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#f5f8fc</string>
+                <string>#323a42</string>
                 <key>caret</key>
-                <string>#444444</string>
+                <string>#ffffff</string>
                 <key>foreground</key>
-                <string>#879bb0</string>
+                <string>#dce2e8</string>
                 <key>invisibles</key>
-                <string>#3b3a32</string>
+                <string>#596675</string>
                 <key>lineHighlight</key>
-                <string>#eeeeee</string>
+                <string>#3c454f</string>
                 <key>selection</key>
                 <string>#355b8c</string>
                 <key>selectionForeground</key>
@@ -41,7 +41,7 @@ Find more themes at : https://github.com/rainglow
                 <key>selectionBorder</key>
                 <string>#ffffff</string>
                 <key>activeGuide</key>
-                <string>#9d550f</string>
+                <string>#596675</string>
 
                 <key>bracketsForeground</key>
                 <string>#a8c0e0</string>
@@ -65,7 +65,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#bbbbbb</string>
+                <string>#728496</string>
             </dict>
         </dict>
         <dict>
@@ -99,7 +99,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -110,7 +110,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -132,7 +132,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#808c9c</string>
+                <string>#b3becc</string>
             </dict>
         </dict>
         <dict>
@@ -145,7 +145,7 @@ Find more themes at : https://github.com/rainglow
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -171,7 +171,7 @@ Find more themes at : https://github.com/rainglow
                 <key>fontStyle</key>
                 <string>underline</string>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -184,7 +184,7 @@ Find more themes at : https://github.com/rainglow
                 <key>fontStyle</key>
                 <string>italic underline</string>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -210,7 +210,7 @@ Find more themes at : https://github.com/rainglow
                 <key>fontStyle</key>
                 <string>italic</string>
                 <key>foreground</key>
-                <string>#879bb0</string>
+                <string>#dce2e8</string>
             </dict>
         </dict>
         <dict>
@@ -236,7 +236,7 @@ Find more themes at : https://github.com/rainglow
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -262,7 +262,7 @@ Find more themes at : https://github.com/rainglow
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -275,7 +275,7 @@ Find more themes at : https://github.com/rainglow
                 <key>fontStyle</key>
                 <string>italic</string>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -398,7 +398,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#7d7d7d</string>
+                <string>#8da1b5</string>
             </dict>
         </dict>
         <dict>
@@ -416,7 +416,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
         <dict>
@@ -447,7 +447,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#879bb0</string>
+                <string>#dce2e8</string>
             </dict>
         </dict>
         <dict>
@@ -469,7 +469,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#879bb0</string>
+                <string>#dce2e8</string>
                 <key>fontStyle</key>
                 <string>normal</string>
             </dict>
@@ -482,7 +482,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#879bb0</string>
+                <string>#dce2e8</string>
                 <key>fontStyle</key>
                 <string>normal</string>
             </dict>
@@ -510,7 +510,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#355b8c</string>
+                <string>#507db7</string>
             </dict>
         </dict>
 
@@ -522,7 +522,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#808c9c</string>
+                <string>#b3becc</string>
             </dict>
         </dict>
 
@@ -546,7 +546,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#808c9c</string>
+                <string>#b3becc</string>
             </dict>
         </dict>
 
@@ -558,7 +558,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#808c9c</string>
+                <string>#b3becc</string>
             </dict>
         </dict>
 
@@ -570,7 +570,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#808c9c</string>
+                <string>#b3becc</string>
             </dict>
         </dict>
 

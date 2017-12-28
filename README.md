@@ -2,7 +2,7 @@
 
 ## Sublime Text
 
-Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **180+ syntax and UI themes** for [Sublime Text](https://www.sublimetext.com/) (also Textmate).
+Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **250+ syntax and UI themes** for [Sublime Text](https://www.sublimetext.com/) (also Textmate).
 
 <a href="https://raw.githubusercontent.com/rainglow/examples/master/sublime/gloom-contrast.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/sublime/gloom-contrast.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/sublime/kiwi.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/sublime/kiwi.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/sublime/piggy.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/sublime/piggy.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/sublime/earthsong.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/sublime/earthsong.png" width="340" /></a>
 
