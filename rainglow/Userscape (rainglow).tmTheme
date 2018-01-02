@@ -5,7 +5,7 @@
 Userscape
 ======================================================================
 A Sublime Text / Textmate theme.
-Copyright (c) 2017 Dayle Rees <me@daylerees.com>.
+Copyright (c) 2018 Dayle Rees <me@daylerees.com>.
 Released under the MIT License <http://opensource.org/licenses/MIT>
 ======================================================================
 Find more themes at : https://github.com/rainglow
@@ -27,9 +27,9 @@ Find more themes at : https://github.com/rainglow
                 <key>foreground</key>
                 <string>#dce2e8</string>
                 <key>invisibles</key>
-                <string>#596675</string>
+                <string>#53606e</string>
                 <key>lineHighlight</key>
-                <string>#3c454f</string>
+                <string>#39424b</string>
                 <key>selection</key>
                 <string>#355b8c</string>
                 <key>selectionForeground</key>
@@ -37,11 +37,11 @@ Find more themes at : https://github.com/rainglow
                 <key>findHighlight</key>
                 <string>#ffe792</string>
                 <key>findHighlightForeground</key>
-                <string>#000000</string>
+                <string>#333333</string>
                 <key>selectionBorder</key>
                 <string>#ffffff</string>
                 <key>activeGuide</key>
-                <string>#596675</string>
+                <string>#48535f</string>
 
                 <key>bracketsForeground</key>
                 <string>#a8c0e0</string>
@@ -297,11 +297,11 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#ba5050</string>
+                <string>#664e4d</string>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#6b1010</string>
+                <string>#cf433e</string>
             </dict>
         </dict>
         <dict>
@@ -312,9 +312,9 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#ba5050</string>
+                <string>#664e4d</string>
                 <key>foreground</key>
-                <string>#6b1010</string>
+                <string>#cf433e</string>
             </dict>
         </dict>
         <dict>
@@ -398,7 +398,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#8da1b5</string>
+                <string>#000000</string>
             </dict>
         </dict>
         <dict>
@@ -632,7 +632,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ba5050</string>
+                <string>#664e4d</string>
             </dict>
         </dict>
 

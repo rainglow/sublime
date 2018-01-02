@@ -5,7 +5,7 @@
 Waste Contrast
 ======================================================================
 A Sublime Text / Textmate theme.
-Copyright (c) 2017 Dayle Rees <me@daylerees.com>.
+Copyright (c) 2018 Dayle Rees <me@daylerees.com>.
 Released under the MIT License <http://opensource.org/licenses/MIT>
 ======================================================================
 Find more themes at : https://github.com/rainglow
@@ -27,21 +27,21 @@ Find more themes at : https://github.com/rainglow
                 <key>foreground</key>
                 <string>#b1c7cc</string>
                 <key>invisibles</key>
-                <string>#183338</string>
+                <string>#204145</string>
                 <key>lineHighlight</key>
-                <string>#112326</string>
+                <string>#0d1a1b</string>
                 <key>selection</key>
                 <string>#43bdb2</string>
                 <key>selectionForeground</key>
                 <string>#ffffff</string>
                 <key>findHighlight</key>
-                <string>#f7cc20</string>
+                <string>#ffe792</string>
                 <key>findHighlightForeground</key>
-                <string>#3d3206</string>
+                <string>#333333</string>
                 <key>selectionBorder</key>
                 <string>#ffffff</string>
                 <key>activeGuide</key>
-                <string>#183338</string>
+                <string>#183134</string>
 
                 <key>bracketsForeground</key>
                 <string>#b1c7cc</string>
@@ -297,11 +297,11 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#00a8c6</string>
+                <string>#664e4d</string>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#f8f8f0</string>
+                <string>#cf433e</string>
             </dict>
         </dict>
         <dict>
@@ -312,9 +312,9 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#00a8c6</string>
+                <string>#664e4d</string>
                 <key>foreground</key>
-                <string>#f8f8f0</string>
+                <string>#cf433e</string>
             </dict>
         </dict>
         <dict>
@@ -398,7 +398,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#385957</string>
+                <string>#000000</string>
             </dict>
         </dict>
         <dict>
@@ -632,7 +632,7 @@ Find more themes at : https://github.com/rainglow
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#00a8c6</string>
+                <string>#664e4d</string>
             </dict>
         </dict>
 
