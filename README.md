@@ -21,7 +21,7 @@ To show support for the project, you can do any (or many!) of the following:
 
 ### Easy Installation
 
-Coming soon.
+Simply install the 'Rainglow' package using [Package Control](https://packagecontrol.io/packages/Rainglow).
 
 ### Manual Installation
 
